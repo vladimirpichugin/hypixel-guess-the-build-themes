@@ -1,9 +1,3 @@
-Door Knob
-Kelp
-UFO
-Cereal Box
-Moth
-Motorcycle
 Abandoned Mansion
 Abonded Mansion
 Advent Calendar
@@ -12,7 +6,6 @@ Airplane
 Airport
 Airship
 Aladdin
-karaoke
 Alarm
 Alarm Clock
 Alien
@@ -52,7 +45,6 @@ Avocado
 Award
 Awards
 Axe
-BBQ Grill
 Baby
 Backflip
 Backpack
@@ -97,14 +89,15 @@ Bath
 Bath Tub
 Bathroom
 Batman
-Battering ram
+Battering Ram
 Battery
-Battle axe
+Battle Axe
 Battleship
 Bay
+Bbq Grill
 Beach
 Beach Ball
-Beach party
+Beach Party
 Bean
 Bean Bag
 Beanie
@@ -137,8 +130,9 @@ Bingo
 Binoculars
 Biology
 Bird
+Bird Cage
+Bird Feeder
 Bird Nest
-Bird feeder
 Birdbath
 Birdcage
 Birds
@@ -154,6 +148,7 @@ Blender
 Blimp
 Blizzard
 Blocks
+Blueprint
 Board Game
 Boat
 Bobsledding
@@ -174,8 +169,8 @@ Bottle
 Bounce
 Bouncy Castle
 Bow
+Bow And Arrow
 Bow Tie
-Bow and Arrow
 Bowl
 Bowling
 Bowling Alley
@@ -183,8 +178,8 @@ Bowling Ball
 Bowling Pin
 Bowtie
 Box
+Box Of Chocolate
 Box Of Chocolates
-Box of Chocolate
 Boxing
 Boxing Gloves
 Boxing Ring
@@ -194,7 +189,7 @@ Brain
 Branch
 Bread
 Breakfast
-Breakfast in Bed
+Breakfast In Bed
 Brick
 Bridge
 Broccoli
@@ -203,7 +198,7 @@ Broom
 Broomstick
 Brush
 Bubble
-Bubble bath
+Bubble Bath
 Bubbles
 Bucket
 Buffet
@@ -248,7 +243,7 @@ Canada
 Canal
 Candle
 Candy
-Candy cane
+Candy Cane
 Cane
 Cannon
 Cannonball
@@ -257,16 +252,16 @@ Canopy Bed
 Cap
 Cape
 Car
-Carolling
 Car Park
 Car Wash
 Caravan
 Card
-Card games
+Card Games
 Cardboard Box
 Cards
 Caribbean
 Carnival
+Carolling
 Carpenter
 Carpet
 Carriage
@@ -276,7 +271,7 @@ Cart
 Cartoon
 Cartwheel
 Cash
-Cash register
+Cash Register
 Cashier
 Cassette
 Castle
@@ -284,8 +279,8 @@ Cat
 Catacomb
 Catapult
 Caterpillar
-Cauliflower
 Cauldron
+Cauliflower
 Cave
 Ceiling
 Ceiling Fan
@@ -295,12 +290,14 @@ Cellphone
 Cellphone Charger
 Centaur
 Cereal
+Cereal Box
 Chain
 Chainsaw
 Chair
 Chairs
 Chalk
 Chameleon
+Chandelier
 Charger
 Cheating
 Checkerboard
@@ -335,15 +332,15 @@ Chocolate Factory
 Chocolate Milk
 Chopsticks
 Christmas
-Christmas card
-Christmas tree
-christmas cracker
+Christmas Card
+Christmas Cracker
 Christmas Lights
+Christmas Tree
 Church
 Cinema
 Circle
 Circus
-City building
+City Building
 Clam
 Clap
 Class
@@ -361,8 +358,8 @@ Closet
 Clouds
 Clown
 Clown Fish
-Coat
 Coal
+Coat
 Coat Hanger
 Cobweb
 Cockroach
@@ -370,8 +367,8 @@ Coconut
 Cocoon
 Coffee
 Coffee Cup
+Coffee Machine
 Coffee Table
-Coffee machine
 Coffin
 Cog
 Coin
@@ -380,19 +377,19 @@ Colored Pencil
 Comb
 Comedy
 Comet
-Comic book
+Comic Book
 Compass
-Compost bin
+Compost Bin
 Computer
 Computer Desk
 Computer Keyboard
-Computer Mouse
 Computer Monitor
+Computer Mouse
 Computer Screen
 Concert
-Console games
+Console Games
 Construction
-Construction yard
+Construction Yard
 Contestant
 Controller
 Conveyor Belt
@@ -438,7 +435,7 @@ Cube
 Cuckoo Clock
 Cucumber
 Cup
-Cup of Water
+Cup Of Water
 Cupboard
 Cupcake
 Curtain
@@ -447,21 +444,19 @@ Cushion
 Cycle
 Cyclone
 Cyclops
-DJ Booth
-DVD
 Dab
 Dad
 Daffodil
 Dagger
-Date
 Dance
+Dance Competition
 Dancefloor
-Dance competition
 Dancer
 Dancing
+Date
 Day
 Dead Tree
-Deck of Cards
+Deck Of Cards
 Decoration
 Decorations
 Deer
@@ -480,7 +475,7 @@ Dice
 Dictator
 Dimples
 Dinner
-Dinner table
+Dinner Table
 Dinosaur
 Dirt House
 Disappear
@@ -493,6 +488,7 @@ Dishwasher
 Dispenser
 Diving
 Diving Board
+Dj Booth
 Doctor
 Dodgeball
 Dog
@@ -507,7 +503,9 @@ Domino
 Donkey
 Donut
 Door
+Door Knob
 Doorknob
+Dove
 Dragon
 Dragon Egg
 Dragonfly
@@ -527,17 +525,18 @@ Drumstick
 Duck
 Dumbbell
 Dungeon
+Dvd
 Dwarf
 Dye
 Dynamite
 Eagle
 Ear
 Earring
+Ears
 Earth
 Easter
 Easter Bunny
 Easter Egg
-Ears
 Eating
 Eating Competition
 Eclipse
@@ -546,7 +545,7 @@ Eggplant
 Eggs
 Eggs Hatching
 Egypt
-Eiffel tower
+Eiffel Tower
 Elastic Band
 Elbow
 Electricity
@@ -621,9 +620,9 @@ Fireplace
 Fireworks
 First Aid
 Fish
+Fish And Chips
 Fish Bowl
 Fish Tank
-Fish and Chips
 Fisherman
 Fishing
 Fishing Rod
@@ -635,7 +634,7 @@ Flare
 Flashlight
 Flat
 Fleece
-Flip phone
+Flip Phone
 Flipper
 Floating Island
 Flood
@@ -651,7 +650,8 @@ Folder
 Food
 Foot
 Football
-Football field
+Football Field
+Football Helmet
 Footprint
 Forehead
 Forest
@@ -675,9 +675,9 @@ Frown
 Fruit
 Fruit Basket
 Fruit Salad
-Frying pan
+Frying Pan
 Fudge
-Fun park
+Fun Park
 Funhouse
 Fur
 Furnace
@@ -710,14 +710,14 @@ Ghost
 Giant
 Gift
 Gifts
-Gingerbread Man
 Gingerbread House
+Gingerbread Man
 Giraffe
 Girl
 Glass
 Glass Door
+Glass Of Milk
 Glass Table
-Glass of Milk
 Glasses
 Globe
 Gloves
@@ -739,6 +739,7 @@ Golden Apple
 Goldfish
 Golem
 Golf
+Golf Ball
 Golf Cart
 Golf Club
 Golf Course
@@ -790,11 +791,12 @@ Hand
 Handbag
 Handcuffs
 Handgliding
-Hanggliding
 Handshake
 Handstand
+Hanggliding
 Happy
 Harbor
+Hard Hat
 Harmonica
 Harp
 Harry Potter
@@ -816,7 +818,7 @@ Hen
 Heptagon
 Hero
 Hexagon
-Hide and Seek
+Hide And Seek
 High Heels
 Highway
 Hill
@@ -863,8 +865,8 @@ Ice Cream Cone
 Ice Cream Van
 Ice Cube
 Ice Skates
+Ice Skating
 Ice Spike
-Ice skating
 Iceberg
 Icicle
 Icy
@@ -902,13 +904,16 @@ Jump Rope
 Jumping
 Jungle
 Kangaroo
+Karaoke
 Karate
 Katana
 Kayak
+Kelp
 Kennel
 Ketchup
 Kettle
 Key
+Keyboard
 Keys
 Kid
 King
@@ -943,15 +948,17 @@ Laughing
 Laundry Basket
 Lava
 Lava Bucket
+Lawn Games
 Lawn Mower
 Lawyer
 Lead
 Leaf
-Leaking roof
+Leaking Roof
 Leather
 Leaves
+Lecture Hall
 Leg
-Legend of Zelda
+Legend Of Zelda
 Lemon
 Lemonade
 Lemonade Stand
@@ -977,10 +984,10 @@ Lion
 Lips
 Lipstick
 Litter
-Living room
+Living Room
 Lizard
 Llama
-Loaf of Bread
+Loaf Of Bread
 Lobster
 Loch Ness Monster
 Lock
@@ -992,10 +999,9 @@ London
 Luggage
 Luigi
 Lumberjack
-lump of coal
+Lump Of Coal
 Lunch
 Lunchbox
-MP3 Player
 Machine
 Mad Scientist
 Magazine
@@ -1013,6 +1019,7 @@ Mailbox
 Mailman
 Makeup
 Mammoth
+Mannequin
 Mansion
 Map
 Marbles
@@ -1042,9 +1049,9 @@ Mexico
 Microphone
 Microwave
 Milk
+Milk And Cookies
 Milkshake
 Milky Way
-Milk and cookies
 Mine
 Minecart
 Minecraft
@@ -1055,7 +1062,7 @@ Mining
 Minion
 Mirror
 Missile
-mistletoe
+Mistletoe
 Mittens
 Moat
 Mobility Scooter
@@ -1071,7 +1078,9 @@ Moon
 Moose
 Mop
 Morning
+Moth
 Motorbike
+Motorcycle
 Mountain
 Mouse
 Mouse Pad
@@ -1082,6 +1091,7 @@ Mouth
 Movie
 Movie Scene
 Movie Theatre
+Mp3 Player
 Mud
 Muffin
 Mug
@@ -1097,12 +1107,13 @@ Musician
 Mustard
 Mystery Box
 Nachos
-Naughty List
 Nail
-Nail polish
+Nail Polish
 Name Tag
 Napkin
+Narwhal
 Nature
+Naughty List
 Necklace
 Needle
 Nether
@@ -1112,10 +1123,10 @@ Nightmare
 Ninja
 Ninja Turtles
 Nintendo
+North Pole
 Nose
 Nosebleed
 Notepad
-North pole
 Nurse
 Nutcracker
 Oar
@@ -1143,7 +1154,7 @@ Oven
 Owl
 Oxygen
 Oyster
-Pack of Cards
+Pack Of Cards
 Package
 Packet
 Pacman
@@ -1157,7 +1168,7 @@ Painter
 Painting
 Palace
 Palette
-Palm tree
+Palm Tree
 Pan
 Pancake
 Panda
@@ -1167,6 +1178,7 @@ Paperclip
 Parachute
 Park
 Parking
+Parking Lot
 Parkour
 Parrot
 Party
@@ -1204,13 +1216,14 @@ Photographer
 Piano
 Pickaxe
 Pickle
+Picnic
 Picture
 Picture Frame
 Pie
 Pier
 Pig
 Pigeon
-Piggy bank
+Piggy Bank
 Pigman
 Pikachu
 Pillow
@@ -1234,7 +1247,7 @@ Pizza
 Planet
 Plank
 Plant
-Plant pot
+Plant Pot
 Plate
 Platform
 Platypus
@@ -1250,18 +1263,18 @@ Poison
 Pokeball
 Pokemon
 Polar Bear
-Pole vault
+Pole Vault
 Police
 Police Car
-Policecar
 Police Officer
 Police Station
+Policecar
 Policeman
 Pond
 Pong
 Pony
 Pool
-Pool table
+Pool Table
 Poor
 Popcorn
 Poppy
@@ -1271,7 +1284,7 @@ Post Office
 Postcard
 Poster
 Pot
-Pot of Gold
+Pot Of Gold
 Potato
 Potato Chips
 Potatoes
@@ -1323,12 +1336,13 @@ Rake
 Rat
 Ravine
 Reading
-Reindeer
 Reaper
 Recycle
+Red Panda
 Redstone
 Reef
 Refrigerator
+Reindeer
 Remote
 Remote Control
 Restaurant
@@ -1343,9 +1357,9 @@ Road
 Robin Hood
 Robot
 Rock
+Rock And Roll
 Rock Band
 Rock Climbing
-Rock and Roll
 Rocket
 Rocket Launcher
 Rocket Ship
@@ -1356,7 +1370,7 @@ Roof
 Room
 Rope
 Rose
-Rose bush
+Rose Bush
 Roundabout
 Rowboat
 Rowing
@@ -1382,16 +1396,17 @@ Salamander
 Salmon
 Saloon
 Salt
-Salt and Pepper
+Salt And Pepper
 Samurai
 Sand Castle
 Sandbox
 Sandcastle
+Sandwich
 Sandwiches
 Santa
+Santa Claus
 Santa Workshop
 Santas Workshop
-santa claus
 Sardines
 Satellite
 Sauce
@@ -1427,8 +1442,8 @@ Security Camera
 Seed
 Seesaw
 Self Portrait
-Sewing Machine
 Sewer
+Sewing Machine
 Shack
 Shampoo
 Shapes
@@ -1445,9 +1460,9 @@ Ship
 Shipwreck
 Shirt
 Shoe Laces
-Shopping
 Shoes
 Shop
+Shopping
 Shopping Bag
 Shopping Trolley
 Short
@@ -1470,17 +1485,17 @@ Skating
 Skating Rink
 Skeleton
 Ski
-Ski lodge
+Ski Lodge
 Skiing
 Skinny
 Skirt
 Skull
 Sky
-SkyWars
 Skydiver
 Skyscraper
-Sleep
+Skywars
 Sled
+Sleep
 Sleeping
 Sleeping Bag
 Sleigh
@@ -1498,20 +1513,21 @@ Smiley
 Smoke
 Smoking
 Smoothie
+Smore
 Snail
 Snake
 Sneakers
 Sniper
 Snow
-Snowy Forest
-snowball fight
+Snow Globe
 Snowball
+Snowball Fight
 Snowboarding
 Snowflake
 Snowing
 Snowman
 Snowy
-Snow Globe
+Snowy Forest
 Soap
 Soccer
 Soccer Ball
@@ -1590,6 +1606,7 @@ Street
 Streetlamp
 String
 Strong
+Stronghold
 Submarine
 Sugar
 Suit
@@ -1611,7 +1628,7 @@ Supermarket
 Surfboard
 Surfing
 Surgery
-surprise
+Surprise
 Sushi
 Swamp
 Swan
@@ -1623,11 +1640,8 @@ Swiss Cheese
 Switch
 Sword
 Swordfish
-T-Rex
-T-Shirt
-TNT
-TNT Cannon
-TV Remote
+T-rex
+T-shirt
 Table
 Table Cloth
 Table Tennis
@@ -1642,7 +1656,7 @@ Tattoo
 Tavern
 Taxi
 Tea
-Tea and Biscuits
+Tea And Biscuits
 Teacup
 Teapot
 Tears
@@ -1687,6 +1701,8 @@ Tinsel
 Tire Swing
 Tissue
 Titanic
+Tnt
+Tnt Cannon
 Toad
 Toast
 Toaster
@@ -1711,9 +1727,9 @@ Tow Truck
 Towel
 Towel Rack
 Tower
-Tower of Pisa
+Tower Of Pisa
 Toy
-toy factory
+Toy Factory
 Toy Soldier
 Toy Story
 Track
@@ -1739,6 +1755,7 @@ Tree
 Tree Frog
 Treehouse
 Triangle
+Trick Shot
 Tricycle
 Triplets
 Trolley
@@ -1749,24 +1766,27 @@ Truck
 Trumpet
 Tsunami
 Tub
-Tug of War
+Tug Of War
 Tuna
 Tunnel
 Turkey
 Turret
 Turtle
 Tuxedo
+Tv Remote
 Tweezers
 Twig
 Typewriter
 Tyre
+Ufo
 Umbrella
 Undead
 Under The Sea
 Underwater
 Unicorn
 Unicycle
-Upside down
+University
+Upside Down
 Vacuum
 Valentine
 Vampire
@@ -1787,8 +1807,8 @@ Village
 Villager
 Violin
 Volcano
-Volcano Eruption
 Volcano Erupting
+Volcano Eruption
 Voldemort
 Volleyball
 Voltage
@@ -1798,6 +1818,7 @@ Wagon
 Walkie Talkie
 Wall
 Wallet
+Wallpaper
 Walrus
 Wand
 Wardrobe
@@ -1849,7 +1870,7 @@ Wings
 Wink
 Winter
 Wire
-Wishing well
+Wishing Well
 Witch
 Witch House
 Wither
@@ -1860,8 +1881,8 @@ Wool
 Workshop
 World
 Worm
+Wrapping Paper
 Wrecking Ball
-Wrapping paper
 Wrench
 Wrestling
 Writing
@@ -1878,21 +1899,3 @@ Zipper
 Zombie
 Zombie Apocalypse
 Zoo
-Trick Shot
-University
-Stronghold
-Bird Cage
-Football Helmet
-Sandwich
-hard hat
-Dove
-red panda
-Lecture Hall
-Blueprint
-Narwhal
-Keyboard
-Picnic
-Smore
-Lawn Games
-Chandelier
-Parking Lot
