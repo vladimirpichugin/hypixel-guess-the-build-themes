@@ -251,6 +251,7 @@ Canoe
 Canopy Bed
 Cap
 Cape
+Capybara
 Car
 Car Park
 Car Wash
