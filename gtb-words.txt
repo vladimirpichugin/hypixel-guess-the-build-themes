@@ -685,6 +685,7 @@ Furnace
 Furniture
 Futuristic House
 Galaxy
+Gallery
 Game
 Games Controller
 Gaming Chair
