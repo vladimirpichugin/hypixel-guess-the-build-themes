@@ -109,6 +109,7 @@ Beaver
 Bed
 Bedroom
 Bedtime
+BedWars
 Bee
 Beef
 Beehive
@@ -1782,6 +1783,7 @@ Twig
 Typewriter
 Tyre
 Ufo
+Ukulele
 Umbrella
 Undead
 Under The Sea
