@@ -115,6 +115,7 @@ Beef
 Beehive
 Beetle
 Bell
+Bell Pepper
 Belt
 Bench
 Berries
@@ -1650,6 +1651,7 @@ Table
 Table Cloth
 Table Tennis
 Tablet
+Taco
 Tail
 Talent Show
 Tall
