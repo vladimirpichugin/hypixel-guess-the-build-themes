@@ -109,7 +109,7 @@ Beaver
 Bed
 Bedroom
 Bedtime
-BedWars
+Bedwars
 Bee
 Beef
 Beehive
@@ -1260,6 +1260,7 @@ Playground
 Playing Cards
 Pliers
 Plug
+Plumber
 Plunger
 Pocket Watch
 Podium
@@ -1808,6 +1809,7 @@ Vending Machine
 Venus Fly Trap
 Video Camera
 Video Game
+Video Games
 Viking
 Viking Ship
 Village
